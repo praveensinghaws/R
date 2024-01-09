@@ -1,0 +1,19 @@
+# R generated files
+*.RData
+*.Rhistory
+.Rproj.user/
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.Rdata
+*.Rproj
+
+# CRAN binary
+*.tar.gz
+
+# R Markdown
+*.html
+*.pdf
+*_files/
+*_cache/
